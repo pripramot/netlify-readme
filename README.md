@@ -34,9 +34,9 @@
 - [Special Thanks](#special-thanks)
 - [Contribute](#contributors)
 
-[Follow our Twitter feed](https://twitter.com/) to learn about upcoming updates and new releases!
+<!-- [Follow our Twitter feed](https://twitter.com/) to learn about upcoming updates and new releases!
 
-<!--<h2 align="center">Donate</h2>
+<h2 align="center">Donate</h2>
 
 <div align="center">
 
@@ -88,66 +88,65 @@ Wiki.js is an open source project that has been made possible due to the generou
 </table>
 </div>
 </details>
-
 <div align="center">
 <table>
   <tbody>
     <tr>
       <td align="center" valign="middle" width="200">
         <a href="https://acceleanation.com/" target="_blank">
-          <img src="./assets/images/500px/30.png">
+          <img src="/assets/images/500px/30.png">
         </a>
       </td>
       <td align="center" valign="middle" width="200">
         <a href="https://github.com/alexksso" target="_blank">
-          <img src="./assets/images/500px/26.png">
+          <img src="/assets/images/500px/26.png">
         </a>
       </td>
       <td align="center" valign="middle" width="200">
         <a href="https://github.com/broxen" target="_blank">
-          <img src="./assets/images/500px/21.png">
+          <img src="/assets/images/500px/21.png">
         </a>
       </td>
       <td align="center" valign="middle" width="200">
         <a href="https://github.com/xDacon" target="_blank">
-          <img src="./assets/images/500px/20.png">
+          <img src="/assets/images/500px/20.png">
         </a>
       </td>
       <td align="center" valign="middle" width="200">
         <a href="https://github.com/GigabiteLabs" target="_blank">
-          <img src="./assets/images/500px/10.png">
+          <img src="/assets/images/500px/10.png">
         </a>
       </td>
       <td align="center" valign="middle" width="200">
         <a href="https://www.hostwiki.com/" target="_blank">
-          <img src="./assets/images/500px/15.png">
+          <img src="/assets/images/500px/15.png">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" width="200">
         <a href="https://github.com/JayDaley" target="_blank">
-          <img src="./assets/images/500px/28.png">
+          <img src="/assets/images/500px/28.png">
         </a>
       </td>
       <td align="center" valign="middle" width="200">
         <a href="https://github.com/idokka" target="_blank">
-          <img src="./assets/images/500px/27.png">
+          <img src="/assets/images/500px/27.png">
         </a>
       </td>
       <td align="center" valign="middle" width="200">
         <a href="https://www.openhost-network.com/" target="_blank">
-          <img src="./assets/images/500px/21.png">
+          <img src="/assets/images/500px/21.png">
         </a>
       </td>
       <td align="center" valign="middle" width="200">
         <a href="https://www.prevo.ch/" target="_blank">
-          <img src="./assets/images/500px/22.png">
+          <img src="/assets/images/500px/22.png">
         </a>
       </td>
       <td align="center" valign="middle" colspan="200">
         <a href="https://github.com/sponsors/NGPixel" target="_blank">
-          <img src="./assets/images/500px/25.png">
+          <img src="/assets/images/500px/25.png">
         </a>
       </td>
     </tr>
